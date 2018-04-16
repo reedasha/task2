@@ -7,7 +7,8 @@
 
         <style>
             html, body {
-                background-image: url('https://awesomewallpapers.files.wordpress.com/2016/04/1920x1080-20.jpg');
+                background: url('https://cdn.wallpapersafari.com/57/36/5MbQFu.png') no-repeat;
+                background-size: cover;
                 height: 100%;
             }
 
@@ -18,11 +19,11 @@
                 display: table;
                 font-weight: 100;
                 font-family: 'Lato';
+                color:white;
             }
 
             .container {
                 text-align: center;
-                display: table-cell;
                 vertical-align: middle;
             }
 
@@ -32,7 +33,7 @@
             }
 
             .title {
-                font-size: 96px;
+                font-size: 112px;
             }
         </style>
     </head>
